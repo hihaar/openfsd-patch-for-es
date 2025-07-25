@@ -1,4 +1,7 @@
 # Openfsd Euroscope Patch
+## About this fork
+The purpose of this branch is to make euroscope works with flyconnecteff's platform.
+
 ## How to use?
 replace the value of ``TARGET_JWT_URL`` in ``config.h`` and then compile.
 
